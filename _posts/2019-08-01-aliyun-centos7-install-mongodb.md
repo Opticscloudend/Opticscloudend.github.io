@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      阿里云ECS服务器centos7系统安装MongoDB
-subtitle:   Linux系统软件安装
-date:       2019-08-01
+title:      大光圈高品质变焦投影物镜设计
+subtitle:   积木搭建法
+date:       2016-08-01
 author:     Will Wang
 header-img: img/post-bg-article.jpg
 catalog: true
