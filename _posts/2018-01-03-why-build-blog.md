@@ -2,8 +2,8 @@
 layout:     post
 title:      我为什么要建立自己的博客？
 subtitle:   分享的乐趣
-date:       2018-01-03
-author:     Will Wang
+date:       2014-01-03
+author:     jackfy
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
