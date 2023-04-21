@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      大光圈高品质变焦投影物镜设计
+title:      大光圈高品质1.5倍变焦投影物镜设计
 subtitle:   积木搭建法
 date:       2016-08-01
 author:     Will Wang
