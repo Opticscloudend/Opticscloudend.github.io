@@ -15,7 +15,7 @@ tags:
     - Lightpanel
 ---
 
-#### TracePro之Diffuser设计
+#### TracePro之Diffuser入门设计
 
 ### （一）	TracePro的基本模拟流程
 1、	建立需要模拟的3D对象-----------机械工程师提供或者按照工程师给的结构空间自行设计。
