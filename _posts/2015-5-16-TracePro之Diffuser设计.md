@@ -2,7 +2,7 @@
 layout:     post
 title:      ---
 layout:     post
-title:      TracePro之backlight设计
+title:      TracePro之Backlight入门设计
 subtitle:   Backlight Design
 date:       2015-10-01
 author:     jackfy
