@@ -2,7 +2,7 @@
 layout:     post
 title:      IDEA快捷键使用
 subtitle:   熟练使用IDEA快捷键，开发效率飞一般的感觉
-date:       2018-02-04
+date:       2012-02-04
 author:     jackfy
 header-img: img/post-bg-debug.png
 catalog: true
