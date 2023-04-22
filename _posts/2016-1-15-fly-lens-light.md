@@ -2,7 +2,7 @@
 layout:     post
 title:      ---
 layout:     post
-title:      投影复眼照明设计
+title:      投影复眼照明
 subtitle:   Backlight Design
 date:       2016-1-15
 author:     jackfy
