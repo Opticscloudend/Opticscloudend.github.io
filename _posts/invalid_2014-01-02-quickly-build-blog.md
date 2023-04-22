@@ -14,18 +14,13 @@ tags:
 > 
 > 感谢[Huxpro](https://github.com/huxpro)提供的博客模板
 > 
-> [我的的博客](https://flyingwzb.github.io)
+> [我的的博客](https://opticscloudend.github.io)
 
 # 前言
-从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客[Will Wang Blog](https://flyingwzb.github.io)搭建出来了。。。
+从 Jekyll 到 GitHub Pages 中间踩了许多坑，终于把我的个人博客[optics]([https://flyingwzb.github.io](https://opticscloudend.github.io))搭建出来了。。。
 
 本教程针对的是不懂技术又想搭建个人博客的小白，操作简单暴力且快速。当然懂技术那就更好了。
 
-看看看博客的主页样式：
-[![](https://github.com/flyingwzb/flyingwzb.github.io/blob/master/img/readme-home.png?raw=true)](https://flyingwzb.github.io/)
-
-在手机上的布局：
-[![](https://github.com/flyingwzb/flyingwzb.github.io/blob/master/img/post-home-h5.png?raw=true)](https://flyingwzb.github.io/)
 
 废话不多说了，开始进入正文。
 
@@ -35,7 +30,7 @@ tags:
 
 我采用的搭建博客的方式是使用 [GitHub Pages](https://pages.github.com/) + [jekyll](http://jekyll.com.cn/) 的方式。
 
-要使用 GitHub Pages，首先你要注册一个[GitHub](https://github.com/)账号，GitHub 是全球最大的同性交友网站(吐槽下程序员~)，你值得拥有。
+要使用 GitHub Pages，首先你要注册一个[GitHub](https://github.com/)账号，GitHub 是全球最大的交友网站(吐槽下程序员~)，你值得拥有。
 ![](http://upload-images.jianshu.io/upload_images/2178672-e65e5cda50f38cef.jpg?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ### 拉取我的博客模板
