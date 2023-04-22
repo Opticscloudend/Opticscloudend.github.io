@@ -7,8 +7,9 @@ author:     jackfy
 header-img: img/post-bg-article.jpg
 catalog: true
 tags:
-    - 阿里云
-    - MongoDB
+    - zoom
+    - projector
+    - object lens
 ---
 
 #### 简介
