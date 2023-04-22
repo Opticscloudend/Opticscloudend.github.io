@@ -52,12 +52,14 @@ tags:
 
 ![c0e6af6f23a9deb0976c019706cdeeb](https://user-images.githubusercontent.com/131378528/233779901-91215995-f34d-468e-bef3-6ab084e45e8a.png)
 
-###### 指定配置文件
+g
 
+###### 公差分析
+忽略
 ```
-###### 启动MongoDB
+###### ZPL变焦曲线计算，变焦机械结构
 
-
+忽略
 
 ###### 进入终端操作数据库
-
+忽略
