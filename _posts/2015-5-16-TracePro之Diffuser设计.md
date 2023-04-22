@@ -6,7 +6,7 @@ title:      TracePro之backlight设计
 subtitle:   Backlight Design
 date:       2015-10-01
 author:     jackfy
-header-img: img/lens_02.jpg
+header-img: img/lens_03.jpg
 catalog: true
 tags:
     - Lightguide
