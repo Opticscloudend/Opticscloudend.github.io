@@ -26,7 +26,15 @@ tags:
  
 
 #### 系统参数
-- 
+- 变焦范围：30-45mm
+- F/#：2-2.2
+- 对角线场：+/-17.5mm
+- 总长： less than 230mm
+- vignitting at all field: 0.7
+- pixel: about 10um
+- visible Spectrum
+- distortion at all field: <3%
+
 
 ###### 解压
 ```bash
