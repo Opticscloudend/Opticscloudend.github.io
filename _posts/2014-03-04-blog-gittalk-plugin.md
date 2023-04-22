@@ -2,7 +2,7 @@
 layout:     post
 title:      为博客添加 Gitalk 评论插件
 subtitle:   Will Wang`s Blog 添加 Gitalk 的评论插件了
-date:       2018-01-04
+date:       2014-01-04
 author:     Will Wang
 header-img: img/post-bg-universe.jpg
 catalog: true
