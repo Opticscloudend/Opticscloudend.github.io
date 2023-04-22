@@ -4,7 +4,7 @@ title:      大光圈高品质1.5倍变焦投影物镜设计
 subtitle:   积木搭建法
 date:       2016-08-01
 author:     jackfy
-header-img: img/post-bg-article.jpg
+header-img: img/lens_0.jpg
 catalog: true
 tags:
     - zoom
