@@ -17,7 +17,7 @@ tags:
 - 系统参数
 - 开始点
 - 优化
-- 多重结构
+- 多重结构---长中短焦
 - 变焦曲轮线
 #### 积木设计方法简介
 - 这种设计方法从大部分平行板开始，设计者设定的参数进行简单优化，如焦距、后焦距、畸变等；同时根据像差、F/#要求，消色差匹配等初步分配材质；最初得出一个初始结果，这个结果依赖初始条件，
@@ -36,24 +36,22 @@ tags:
 - distortion at all field: <3%
 
 
-###### 解压
-```bash
-cd /usr/local/
+###### 平板到初始结构
 
-tar -zxvf mongodb-linux-x86_64-rhel70-4.0.0.tgz 
-```
-###### 重命名文件夹
-```bash
-mv mongodb-linux-x86_64-rhel70-4.0.0 mongodb4.0.0
-```
-###### 创建日志目录和数据文件目录
-```bash
-cd /usr/local/mongodb4.0.0/
+![1682160290343](https://user-images.githubusercontent.com/131378528/233779418-674ae366-76d7-406b-a1bb-e1dd8c8a1584.png)
 
-mkdir -p data/logs
+###### 优化长焦
 
-mkdir -p data/db
-```
+![1682160621305](https://user-images.githubusercontent.com/131378528/233779718-26f3fa97-82e9-40da-be95-958a164dacf0.png)
+
+![1a243897b6fb7662e9ada43e1e85a54](https://user-images.githubusercontent.com/131378528/233779759-ce95694c-2632-4684-8404-e5d311574bd1.png)
+
+###### 全段焦优化
+
+![1682160763027](https://user-images.githubusercontent.com/131378528/233779866-b66d8295-83d7-4e60-868f-fe8a6cb49f71.png)
+
+![c0e6af6f23a9deb0976c019706cdeeb](https://user-images.githubusercontent.com/131378528/233779901-91215995-f34d-468e-bef3-6ab084e45e8a.png)
+
 ###### 指定配置文件
 - 先在你的windows系统桌面上准备一个文件mongodb.conf，移动阿里云服务器目录下：/usr/local/mongodb4.0.0/
 ```
