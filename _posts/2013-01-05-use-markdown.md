@@ -86,14 +86,13 @@ tags:
 
 <font color="green">--------------------------------------</font>
 
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb)
+欢迎来到[XXXGitHub主页](https://github.com/xx)
 ```markdown
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb)
+欢迎来到[XXX的GitHub主页](https://github.com/xx)
 ```
 
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb "will wang")
 ```markdown
-欢迎来到[王志彪的GitHub主页](https://github.com/flyingwzb "will wang")
+欢迎来到[XXX的GitHub主页](https://github.com/xx "xx")
 ```
 
 <font color="yellow">--------------------------------------</font>
@@ -101,16 +100,16 @@ tags:
 我经常去的几个网站[Google][1]、[GitHub主页][2]以及[我的博客][3]、[GitHub][2]是一个不错的[网站][]。
 
 [1]:http://www.google.com "Google"
-[2]:https://github.com/flyingwzb "GitHub主页"
-[3]:https://flyingwzb.github.io "我的博客"
+[2]:https://github.com/xx "GitHub主页"
+[3]:https://xx "我的博客"
 [网站]:https://github.com
 
 ```markdown
 我经常去的几个网站[Google][1]、[GitHub主页][2]以及[我的博客][3]、[GitHub][2]是一个不错的[网站][]。
 
 [1]:http://www.google.com "Google"
-[2]:https://github.com/flyingwzb "GitHub主页"
-[3]:https://flyingwzb.github.io "我的博客"
+[2]:https://github.com/xx "GitHub主页"
+[3]:https://xx "我的博客"
 [网站]:https://github.com
 ```
 
