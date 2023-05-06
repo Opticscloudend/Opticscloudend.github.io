@@ -4,7 +4,7 @@ title:      ---
 layout:     post
 title:      Fresnel_lens
 subtitle:   PIR LENS Fresnel Design
-date:       2014-10-5
+date:       2014-10-05
 author:     jackfy
 header-img: img/lens_03.jpg
 catalog: true
