@@ -97,7 +97,7 @@ tags:
 
 <font color="yellow">--------------------------------------</font>
 
-我经常去的几个网站[Google][1]、[GitHub主页][2]以及[我的博客][3]、[GitHub][2]是一个不错的[网站][]。
+我经常去的几个网站[Google][1]、[GitHub主页][2]以及[GitHub][2]是一个不错的[网站][]。
 
 [1]:http://www.google.com "Google"
 [2]:https://github.com/xx "GitHub主页"
@@ -105,7 +105,7 @@ tags:
 [网站]:https://github.com
 
 ```markdown
-我经常去的几个网站[Google][1]、[GitHub主页][2]以及[我的博客][3]、[GitHub][2]是一个不错的[网站][]。
+我经常去的几个网站[Google][1]、[GitHub主页][2]以及[GitHub][2]是一个不错的[网站][]。
 
 [1]:http://www.google.com "Google"
 [2]:https://github.com/xx "GitHub主页"
