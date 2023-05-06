@@ -4,7 +4,7 @@ title:      职位释义
 subtitle:   职场
 date:       2014-10-09
 author:     Jackfy
-header-img: img/post-bg-article.jpg
+header-img: img/blog_Lucy.jpg
 catalog: true
 tags:
     - 职场
