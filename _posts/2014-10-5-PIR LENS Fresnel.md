@@ -15,3 +15,11 @@ tags:
     - zemax
     - Smart detector 
 ---
+#### Specification
+- detection range：1-12m
+- detection degree：V:100degree   H：100degree
+- detector install degree ：14degree
+- lens colour： white
+- mounting height: 2~2.7m
+- mounting stype:wall mounted
+- base focus:29mm
