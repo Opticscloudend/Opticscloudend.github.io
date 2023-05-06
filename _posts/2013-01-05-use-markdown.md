@@ -4,7 +4,7 @@ title:      Markdown的使用
 subtitle:   Markdown语法
 date:       2013-01-05
 author:     11
-header-img: img/post-bg-article.jpg
+header-img: img/blog_Lucy.jpg
 catalog: true
 tags:
     - Markdown
