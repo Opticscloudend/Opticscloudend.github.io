@@ -5,7 +5,7 @@ subtitle:   Base endoscope
 date:       [2018-5-3]
 author:    jackfy
 header-img: img/blog_Lucy.jpg
-catalog: flase
+catalog: false
 tags:
     - endoscope
     - illumination system
