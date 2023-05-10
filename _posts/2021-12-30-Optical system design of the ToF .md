@@ -26,4 +26,13 @@ tags:
 
 ![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/772bd15e-2ff4-471a-829d-b341d6296fb1)
 
+### 照明模块
+
+照明模块主要是使用垂直腔发射激光二极管光源（VCSEL），其主要的优点是发射波长对温度不敏感，稳定，带宽比较窄，成本比较低。应用的波长主要有850nmh和940nm，波长选择主要考虑系统的sensor两点：
+
+- Sensor的量子效率（QE， Quantum Efficiency)）
+- sensor的响应（R, Resposivity)
+![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/94240d35-4230-4214-9d72-d4a51bd71c50)
+
+
 
