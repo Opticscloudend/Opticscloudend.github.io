@@ -28,12 +28,23 @@ tags:
 
 ### 照明模块
 
-照明模块主要是使用垂直腔发射激光二极管光源（VCSEL），其主要的优点是发射波长对温度不敏感，稳定，带宽比较窄，成本比较低。应用的波长主要有850nmh和940nm，波长选择主要考虑系统的sensor两点：
+照明模块主要是使用垂直腔发射激光二极管光源（VCSEL），其主要的优点是发射波长对温度不敏感，稳定，带宽比较窄，成本比较低。应用的波长主要有850nmh和940nm，
+
+- （1）波长选择主要考虑系统的sensor两点：
 
 - Sensor的量子效率（QE， Quantum Efficiency)）
 - sensor的响应（R, Resposivity)
 
 ![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/94240d35-4230-4214-9d72-d4a51bd71c50)
+在相同的功率下，高的QE和R值，信噪比比较低，有利于远距离和低发射物体的探测。
+-  (2)人眼感知
+人眼对近红外（NIR）不是很敏感，但是人眼可以感知到850nm，而对940nm感知不到。
+
+- （3）环境光
+环境光主要来之于白天的阳光，阳光除了主要的可见光之外，还有一部分的NIR光，NIR对探测有严重的影响，但是非常幸运，NIR 920nm~960nm经过大气层，绝大部分被大气吸收。
+与850 nm区域相比，该区域的太阳辐照度不到一半(见图3)。在室外应用中，在940 nm处操作ToF系统可以提供更好的环境抗光性，并带来更好的深度传感性能。
+
+![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/45fbb398-3679-4ee1-ac51-53f6052aa689)
 
 
 
