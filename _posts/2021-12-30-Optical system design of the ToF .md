@@ -36,7 +36,6 @@ tags:
 - sensor的响应（R, Resposivity)
 
 ![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/94240d35-4230-4214-9d72-d4a51bd71c50)
-
 在相同的功率下，高的QE和R值，信噪比比较低，有利于远距离和低发射物体的探测。
 -  (2)人眼感知
 人眼对近红外（NIR）不是很敏感，但是人眼可以感知到850nm，而对940nm感知不到。
@@ -45,7 +44,8 @@ tags:
 环境光主要来之于白天的阳光，阳光除了主要的可见光之外，还有一部分的NIR光，NIR对探测有严重的影响，但是非常幸运，NIR 920nm~960nm经过大气层，绝大部分被大气吸收。
 与850 nm区域相比，该区域的太阳辐照度不到一半(见图3)。在室外应用中，在940 nm处操作ToF系统可以提供更好的环境抗光性，并带来更好的深度传感性能。
 
-![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/45fbb398-3679-4ee1-ac51-53f6052aa689)
+![微信图片_20230511221544](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/2bcce8a9-7823-42ea-83bf-620dc248793f)
+
 
 
 
