@@ -36,6 +36,7 @@ tags:
 - sensor的响应（R, Resposivity)
 
 ![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/94240d35-4230-4214-9d72-d4a51bd71c50)
+
 在相同的功率下，高的QE和R值，信噪比比较低，有利于远距离和低发射物体的探测。
 -  (2)人眼感知
 人眼对近红外（NIR）不是很敏感，但是人眼可以感知到850nm，而对940nm感知不到。
