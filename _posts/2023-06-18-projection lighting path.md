@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      [标题]
-subtitle:   [副标题]
+title:      [DMD芯片照明光路]
+subtitle:   [照明光路]
 date:       [2023-06-19]
 author:    jackfy
 header-img: img/blog_Lucy.jpg
