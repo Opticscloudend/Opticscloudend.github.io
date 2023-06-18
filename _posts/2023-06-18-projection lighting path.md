@@ -26,7 +26,8 @@ tags:
 
   ![13](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/df29f5b2-b961-4d1a-89fe-249e91611fe2)
 
-  ![14](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/b1de2b1a-97c3-4599-bf00-d5ba83f1348c)
+
+![15](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/e21e7baa-64a2-4786-ba23-faeafaaf6a3d)
 
 
 这个优化的结构导入tracepro做光效和均匀度数据分析。另外还要成像设计。公差分析
