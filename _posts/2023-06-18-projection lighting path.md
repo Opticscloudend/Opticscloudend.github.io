@@ -19,7 +19,8 @@ tags:
      例如：转角17度，那么F/#=1.6,一般取大一点为1.7；另外要求光瞳匹配，成像投影镜头一般要求物方远心，那么照明光路出射也要远心，也就是两个入桶和出瞳都在无穷远相互匹配。
      这样照明光路的主光线入射到每个cell都平行的。这些设计还是比较难度，前面的LED准直，复眼聚光中继镜 还是比较简单。如图时RGB微投照明系统： 
 
-     ![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/e3af4dc3-4ca4-481a-aa7e-64e77edc18c2)
+![11](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/e1541112-f2dc-4d25-9cb4-574afbb8f02d)
+
 
 
      
