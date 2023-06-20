@@ -18,19 +18,11 @@ tags:
 查了DMD芯片，其设计比LCD的要复杂一点；DMD的偏振角决定了成像镜头的F/#,也觉得了照明光路的F/#; TI 的DMD的一般off and on 转角 -+（10-17）degree。
 例如：转角17度，那么F/#=1.6,一般取大一点为1.7；另外要求光瞳匹配，成像投影镜头一般要求物方远心，那么照明光路出射也要远心，也就是两个入桶和出瞳都在无穷远相互匹配。
 这样照明光路的主光线入射到每个cell都平行的。这些设计还是比较难度，前面的LED准直，复眼聚光中继镜 还是比较简单。如图时RGB微投照明系统：
+![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/8b79ef67-29c7-406f-99ff-be13ee5cb433)
+![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/b9ea801b-4129-49d6-8cd2-97f3379ac84b)
+![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/b95d6586-acff-4a94-ba33-5997278c1f9b)
+![image](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/3ba43418-2141-4846-81bc-b6db0acdf25d)
 
-![1](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/f6132d46-6992-4979-950c-da1bff85ebfd)
-
-
-
-![2](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/ac0ed9f9-d4b7-4884-a787-e2751ac23659)
-
-
-![3](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/58c8aa74-1b74-40ad-a701-51f94cd01b24)
-
-
-
-![4](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/921ab263-810b-4d07-98a8-df0d43e3b97a)
 
 
 
