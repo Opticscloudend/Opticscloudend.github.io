@@ -19,15 +19,19 @@ tags:
 例如：转角17度，那么F/#=1.6,一般取大一点为1.7；另外要求光瞳匹配，成像投影镜头一般要求物方远心，那么照明光路出射也要远心，也就是两个入桶和出瞳都在无穷远相互匹配。
 这样照明光路的主光线入射到每个cell都平行的。这些设计还是比较难度，前面的LED准直，复眼聚光中继镜 还是比较简单。如图时RGB微投照明系统：
 
-  ![11](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/e1541112-f2dc-4d25-9cb4-574afbb8f02d)
+![1](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/f6132d46-6992-4979-950c-da1bff85ebfd)
 
 
-  ![12](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/d24915b5-dc89-493e-ac97-9c849061a42c)
 
-  ![13](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/df29f5b2-b961-4d1a-89fe-249e91611fe2)
+![2](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/ac0ed9f9-d4b7-4884-a787-e2751ac23659)
 
 
-![15](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/e21e7baa-64a2-4786-ba23-faeafaaf6a3d)
+![3](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/58c8aa74-1b74-40ad-a701-51f94cd01b24)
+
+
+
+![4](https://github.com/Opticscloudend/opticscloudend.github.io/assets/131378528/921ab263-810b-4d07-98a8-df0d43e3b97a)
+
 
 
 这个优化的结构导入tracepro做光效和均匀度数据分析。另外还要成像设计。公差分析==
